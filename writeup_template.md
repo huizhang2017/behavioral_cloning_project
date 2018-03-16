@@ -121,8 +121,8 @@ To augment the data sat, I also flipped images and angles thinking that this wou
 ![alt text][image6]
 ![alt text][image7]
 
-
-After the collection process, I had X number of data points. I then preprocessed this data by augumentation. I also normalize the images and crop the images which
+ 
+After the collection process, I had 10728 data points. I then preprocessed this data by augumentation. I also normalize the images and crop the images which
 I think they are not necessary for the training, however, this will accelerate the training speed after the size of images are shrinked.
 
 
