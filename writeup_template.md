@@ -77,7 +77,7 @@ For details about how I created the training data, see the next section.
 
 #### 1. Solution Design Approach
 
-The overall strategy for deriving a model architecture was to ...
+The overall strategy for deriving a model architecture was as follows:
 
 My first step was to use a convolution neural network model which is very simple (one convolutional layer and one fully connected layer).
 I just want to try a simple model first, and finnally found this simple model is not so bad except the overfitting problem.
